@@ -20,7 +20,7 @@ The "splits.json" contains questions' ID for our train/val/test split. It has th
 * "val":   a list of validation "question_id"
 * "test":  a list of test "question_id"
 
-The images, their feature and their scene graph annoation can be downloaded from [Visual Genome official website](http://visualgenome.org/).
+The images and their scene graph annoation can be downloaded from [Visual Genome official website](http://visualgenome.org/).
 
 The extern knowledge based is provided by FVQA[1], and can be downloaded from [dropbox](https://www.dropbox.com/s/iyz6l7jhbt6jb7q/new_dataset_release.zip?dl=0). We use the "new_dataset_release/all_fact_triples_release.json" as the complete extern knowledge base.
 
